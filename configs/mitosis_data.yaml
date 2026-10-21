@@ -1,0 +1,7 @@
+path: /content/drive/MyDrive/mitosis_detection_project/data/mitosis-gjs3g
+train: train/images
+val: valid/images
+test: test/images
+nc: 1
+names:
+- Mitosis

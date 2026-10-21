@@ -1,0 +1,21 @@
+{
+  "slide_dimensions": [
+    2220,
+    2967
+  ],
+  "thumbnail_dimensions": [
+    1532,
+    2048
+  ],
+  "mask_dimensions": [
+    1532,
+    2048
+  ],
+  "tissue_mask_fraction": 0.34329390961569844,
+  "total_tiles": 30,
+  "tiles_center_pass": 8,
+  "tiles_center_skip": 22,
+  "tile_size": 640,
+  "stride": 512,
+  "note": "Center-based tissue filtering can skip tiles containing tissue if their centers lie in whitespace. Region fraction is diagnostic."
+}

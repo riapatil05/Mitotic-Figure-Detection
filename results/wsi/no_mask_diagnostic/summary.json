@@ -1,0 +1,17 @@
+{
+  "slide_dimensions": [
+    2220,
+    2967
+  ],
+  "tiles_processed": 30,
+  "tiles_with_detections": 6,
+  "detections_before_global_nms": 6,
+  "detections_after_global_nms": 5,
+  "confidence_threshold": 0.35,
+  "tile_size": 640,
+  "stride": 512,
+  "elapsed_seconds": 2.169,
+  "tiles_per_second": 13.834,
+  "ground_truth_available": false,
+  "accuracy_interpretation": "Cannot be calculated on this unannotated sample slide."
+}

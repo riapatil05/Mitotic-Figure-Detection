@@ -1,0 +1,16 @@
+{
+  "test_images": 30,
+  "ground_truth_objects": 40,
+  "predictions": 33,
+  "TP": 27,
+  "FP": 6,
+  "FN": 13,
+  "precision": 0.8181818181818182,
+  "recall": 0.675,
+  "F1": 0.7397260273972603,
+  "confidence_threshold": 0.35,
+  "ground_truth_iou_threshold": 0.5,
+  "prediction_nms_iou": 0.7,
+  "matching": "Greedy one-to-one IoU matching; highest IoU pairs matched first",
+  "prior_test_exposure": "The test split was evaluated in earlier project work; this is not an untouched test set."
+}

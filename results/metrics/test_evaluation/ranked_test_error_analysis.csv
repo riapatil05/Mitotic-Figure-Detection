@@ -1,0 +1,31 @@
+image,ground_truth,predictions,TP,FP,FN,total_errors,error_type
+image__010--28-_jpg.rf.99e4aad4a24d6648924044fce26bcd8f.jpg,4,2,2,0,2,2,FN only
+image__000--5-_jpg.rf.ebbf38478b8790e00490b00ca2a22884.jpg,1,1,0,1,1,2,FP and FN
+image__110--32-_jpg.rf.f43e13088c9328cdfa747ab3be901a1d.jpg,1,1,0,1,1,2,FP and FN
+image__000--33-_jpg.rf.aea1cca921d971b03447e5ac3fc90a3d.jpg,3,5,3,2,0,2,FP only
+image__000--12-_jpg.rf.0c31ee3c14b2489ae4a4eb7320bf0076.jpg,2,1,1,0,1,1,FN only
+image__000--18-_jpg.rf.828efbe6a8406fac5f3b2031fa2a5697.jpg,1,0,0,0,1,1,FN only
+image__000--20-_jpg.rf.a68b0ec32a418e26ccd2a3fdcafb42d4.jpg,2,1,1,0,1,1,FN only
+image__010--11-_jpg.rf.7ab4d9e8592e82d0f37af6706ae8dfcb.jpg,1,0,0,0,1,1,FN only
+image__010--42-_jpg.rf.0506d0fcabb855b8629bb5865a54446a.jpg,1,0,0,0,1,1,FN only
+image__010--9-_jpg.rf.e600b1b543bc5e22676ba572b2341fa1.jpg,1,0,0,0,1,1,FN only
+image__100--13-_jpg.rf.b0b4e568169dfd7211338382ad4458f8.jpg,1,0,0,0,1,1,FN only
+image__100--13-_jpg.rf.f8de80189cd7fcc7ab79ef09f75480b8.jpg,1,0,0,0,1,1,FN only
+image__100--24-_jpg.rf.b288da45446b36cb2324dee0e9d1fbcf.jpg,1,0,0,0,1,1,FN only
+image__110--23-_jpg.rf.ae9ce458560832c823bd4ebff405997c.jpg,1,2,1,1,0,1,FP only
+image__110--42-_jpg.rf.6fe049e861d1e252ff41cb36507da16e.jpg,2,3,2,1,0,1,FP only
+image__000--19-_jpg.rf.f6e63461ade7afc8ceaacf6bc422eba1.jpg,1,1,1,0,0,0,No errors
+image__000--28-_jpg.rf.66f2e2948b75400f4eac116cc2bff8ed.jpg,1,1,1,0,0,0,No errors
+image__010--14-_jpg.rf.7f1696de9c20b410cbef7e486fdafa2d.jpg,2,2,2,0,0,0,No errors
+image__010--20-_jpg.rf.a43b07d9301cec426d4a6dca1248815c.jpg,1,1,1,0,0,0,No errors
+image__010--21-_jpg.rf.4eb0f8feab9fe4bd8f232523b824552b.jpg,1,1,1,0,0,0,No errors
+image__010--21-_jpg.rf.9066f64a43348b08eefc050f84e20c7a.jpg,1,1,1,0,0,0,No errors
+image__010--33-_jpg.rf.e7626c3723feb198170f82da9e8b411b.jpg,1,1,1,0,0,0,No errors
+image__010--36-_jpg.rf.cd93074c7395c89d2cf2cd87c51d0aae.jpg,2,2,2,0,0,0,No errors
+image__010--7-_jpg.rf.b625d8000c6d03420bb8817877812835.jpg,1,1,1,0,0,0,No errors
+image__100--11-_jpg.rf.a8b9f2bed85b5db21ac2bffebd9a84aa.jpg,1,1,1,0,0,0,No errors
+image__100--17-_jpg.rf.126ba50ebc3d8e567734a61a7913f9f1.jpg,1,1,1,0,0,0,No errors
+image__100--4-_jpg.rf.a72fb777b5f49afa8aa41e647aeea6b6.jpg,1,1,1,0,0,0,No errors
+image__110--15-_jpg.rf.d11f5061744470a91fc9e7366d3283f2.jpg,1,1,1,0,0,0,No errors
+image__110--8-_jpg.rf.9e79dc8240af5d02c4dc165433169039.jpg,1,1,1,0,0,0,No errors
+image__11_jpg.rf.d53a2bb8d4b7202b0137e276fe8f752e.jpg,1,1,1,0,0,0,No errors

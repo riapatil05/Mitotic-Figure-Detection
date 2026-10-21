@@ -1,0 +1,11 @@
+{
+  "total_tiles": 30,
+  "tiles_processed": 18,
+  "tiles_skipped": 12,
+  "tissue_fraction_threshold": 0.1,
+  "detections_before_global_nms": 2,
+  "detections_after_global_nms": 2,
+  "elapsed_seconds": 2.241,
+  "tiles_per_second": 13.389,
+  "ground_truth_available": false
+}

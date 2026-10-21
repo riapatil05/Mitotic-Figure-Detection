@@ -1,0 +1,14 @@
+{
+  "final_model": "YOLOv8n with conservative augmentation",
+  "checkpoint": "/content/drive/MyDrive/mitosis_detection_project/checkpoints/final_mitosis_detector.pt",
+  "selection_basis": "Higher validation mAP50-95 than baseline",
+  "validation_split": "valid",
+  "imgsz": 640,
+  "validation_metrics": {
+    "precision": 0.881298,
+    "recall": 0.897487,
+    "mAP50": 0.919494,
+    "mAP50_95": 0.573943
+  },
+  "test_set_note": "Previously evaluated; not an untouched test set"
+}

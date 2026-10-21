@@ -1,0 +1,11 @@
+{
+  "checkpoint_size_MB": 6.5,
+  "device": "Tesla T4",
+  "images_benchmarked": 61,
+  "mean_latency_ms": 17.8,
+  "median_latency_ms": 14.93,
+  "p95_latency_ms": 29.98,
+  "throughput_images_per_second": 56.19,
+  "confidence_threshold": 0.35,
+  "nms_iou": 0.7
+}

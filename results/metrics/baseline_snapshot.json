@@ -1,0 +1,11 @@
+{
+  "run_name": "baseline_yolov8n",
+  "best_checkpoint": "/content/drive/MyDrive/mitosis_detection_project/runs/detect/baseline_yolov8n/weights/best.pt",
+  "last_checkpoint": "/content/drive/MyDrive/mitosis_detection_project/runs/detect/baseline_yolov8n/weights/last.pt",
+  "training_history": "/content/drive/MyDrive/mitosis_detection_project/results/metrics/baseline_training_history.csv",
+  "epochs_completed": 29,
+  "best_validation_mAP50": 0.88,
+  "best_validation_mAP50_95": 0.504,
+  "best_epoch_from_training_log": 19,
+  "test_set_evaluated_in_this_run": false
+}

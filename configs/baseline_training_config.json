@@ -1,0 +1,18 @@
+{
+  "model": "yolov8n.pt",
+  "imgsz": 640,
+  "epochs": 40,
+  "batch": 8,
+  "patience": 10,
+  "seed": 42,
+  "deterministic": true,
+  "workers": 2,
+  "pretrained": true,
+  "optimizer": "auto",
+  "save": true,
+  "save_period": 5,
+  "plots": true,
+  "validation_set": "valid/images",
+  "test_policy": "Reserve final test evaluation until model and confidence threshold are fixed.",
+  "created_at": "2026-10-20T21:18:26.307601+00:00"
+}

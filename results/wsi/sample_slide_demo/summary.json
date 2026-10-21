@@ -1,0 +1,22 @@
+{
+  "slide_path": "/content/drive/MyDrive/mitosis_detection_project/data/wsi_demo/CMU-1-Small-Region.svs",
+  "slide_dimensions_level0": [
+    2220,
+    2967
+  ],
+  "level_count": 1,
+  "mpp_x": "0.499",
+  "mpp_y": "0.499",
+  "confidence_threshold": 0.35,
+  "tile_size": 640,
+  "stride": 512,
+  "prediction_nms_iou": 0.7,
+  "global_nms_iou": 0.5,
+  "tiles_processed": 8,
+  "tiles_skipped": 22,
+  "raw_detections": 0,
+  "final_detections": 0,
+  "density_per_mm2": null,
+  "density_note": "Not calculated: detector training images have no verified physical-scale metadata and detections are not ground-truth validated.",
+  "interpretation": "Engineering demonstration on a slide without verified mitosis annotations; detections are unvalidated."
+}

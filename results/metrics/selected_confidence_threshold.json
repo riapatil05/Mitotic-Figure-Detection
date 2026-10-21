@@ -1,0 +1,12 @@
+{
+  "checkpoint": "/content/drive/MyDrive/mitosis_detection_project/runs/detect/baseline_yolov8n/weights/best.pt",
+  "validation_images": 61,
+  "ground_truth_iou_threshold": 0.5,
+  "prediction_nms_iou": 0.7,
+  "selection_rule": "Maximum one-to-one greedy-matching F1 on validation; higher confidence wins ties",
+  "chosen_confidence_threshold": 0.35,
+  "selected_validation_precision": 0.9102564102564102,
+  "selected_validation_recall": 0.7802197802197802,
+  "selected_validation_f1": 0.8402366863905325,
+  "test_evaluated": false
+}
